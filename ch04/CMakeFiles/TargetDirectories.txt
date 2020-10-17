@@ -1,0 +1,4 @@
+/home/kim-yeonghwa/system_programming/ch04/Prac.6/CMakeFiles/edit_cache.dir
+/home/kim-yeonghwa/system_programming/ch04/Prac.6/CMakeFiles/my_assert.dir
+/home/kim-yeonghwa/system_programming/ch04/Prac.6/CMakeFiles/rebuild_cache.dir
+/home/kim-yeonghwa/system_programming/ch04/Prac.6/CMakeFiles/assert_test.dir
